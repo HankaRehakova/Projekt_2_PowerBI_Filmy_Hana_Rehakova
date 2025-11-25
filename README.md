@@ -4,7 +4,6 @@
 Tento projekt vznikl v rámci kurzu Engeto Data Academy.  
 Úkolem bylo vytvořit interaktivní Power BI report, který analyzuje databázi filmů podle různých kritérií.
 
----
 
 ##  Popis obsahu reportu
 
@@ -34,7 +33,6 @@ Projekt obsahuje čtyři stránky:
 - vlastní vytvořený vypočítaný sloupec: **DelkaKategorie**
 
 
----
 
 ## Použitá data  
 - vstupní soubor TSV  
@@ -42,7 +40,6 @@ Projekt obsahuje čtyři stránky:
 - vytvořeno několik vlastních měr  
 - dataset a PBIX nejsou přiloženy kvůli velikosti
 
----
 
 ## Stažení projektu (PBIX)
 
@@ -52,7 +49,6 @@ https://drive.google.com/file/d/1p4GHF2OBy3BGldtlEpvX4GIbaq_0KUCh/view?usp=drive
 
 > Pozn.: Soubor PBIX nelze nahrát přímo na GitHub kvůli velikostnímu limitu.
 
----
 
 ## Technologie  
 - Power BI Desktop  
@@ -60,7 +56,6 @@ https://drive.google.com/file/d/1p4GHF2OBy3BGldtlEpvX4GIbaq_0KUCh/view?usp=drive
 - Datová vizualizace  
 - Datový model
 
----
 
 ## Kontakt  
 V případě dotazů: hana.sejkorova@seznam.cz
