@@ -57,6 +57,3 @@ https://drive.google.com/file/d/1p4GHF2OBy3BGldtlEpvX4GIbaq_0KUCh/view?usp=drive
 - Datový model
 
 
-## Kontakt  
-V případě dotazů: hana.sejkorova@seznam.cz
-
