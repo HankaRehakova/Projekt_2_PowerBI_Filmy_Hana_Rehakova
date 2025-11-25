@@ -47,7 +47,7 @@ Soubor je dostupný přes Google Drive:
 
 https://drive.google.com/file/d/1p4GHF2OBy3BGldtlEpvX4GIbaq_0KUCh/view?usp=drive_link
 
-> Pozn.: Soubor PBIX nelze nahrát přímo na GitHub kvůli velikostnímu limitu.
+Pozn.: Soubor PBIX nelze nahrát přímo na GitHub kvůli velikostnímu limitu.
 
 
 ## Technologie  
